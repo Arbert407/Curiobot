@@ -56,20 +56,25 @@ class Scraper:
     return link
 
 
-scrap = Scraper(
-  headers = {"User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3"},
-  pagination = [10,20,30,40,50,60,70,80,90,100],  
-  topics = [
-    'animales',
-    'astronomia',
-    'fisica',
-    'computacion',
-    'espacio',
-    'cultura',
-    'Descubren',
-    'Investigadores',
-    'como%20ser',
-    'espiritualidad'
-  ]
-)
-scrap.find_link()
+# scrap = Scraper(
+
+#   headers = {"User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3"},
+#   pagination = [10,20,30,40,50,60,70,80,90,100],  
+#   topics = [
+#     'animales',
+#     'astronomia',
+#     'fisica',
+#     'computacion',
+#     'espacio',
+#     'cultura',
+#     'ingenieria',
+#     'Descubren',
+#     'Investigadores',
+#     'como%20ser',
+#     'espiritualidad',
+#     # 'como%20hacer',
+#   ]
+
+# )
+
+# scrap.find_link()

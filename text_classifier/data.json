@@ -1,0 +1,18 @@
+[
+  {"text": "Muestrame una noticia interesante", "label": 1},
+  {"text": "quiero conocer algo nuevo", "label": 1},
+  {"text": "Muestrame algo interesante", "label": 1},
+  {"text": "que interesante", "label": 0},
+  {"text": "eso es nuevo", "label": 0},
+  {"text": "hola", "label": 0},
+  {"text": "me gustaria", "label": 0},
+  {"text": "quiero conocer sobre un tema aleatorio", "label": 1},
+  {"text": "muestrame algo aleatorio", "label": 1},
+  {"text": "pense que te gustaba", "label": 0},
+  {"text": "Que buen video", "label": 0},
+  {"text": "todas aquellas noticias", "label": 0},
+  {"text": "busca algo interesante", "label": 1},
+  {"text": "dame algo interesante", "label": 1},
+  {"text": "muestrame otra noticia", "label": 1},
+  {"text": "muestrame", "label": 0}
+]
