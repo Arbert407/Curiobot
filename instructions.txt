@@ -1,3 +1,5 @@
 pip3 install chatterbot
+pip3 install chatterbot-corpus
 pip3 install spacy
 pip3 install beautiful-soup4
+pip3 install textblob
